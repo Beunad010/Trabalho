@@ -8,6 +8,6 @@ package com.mycompany.projetoe;
  *
  * @author marce
  */
-public class LoginScreen {
+public class DatabaseConnection {
     
 }
